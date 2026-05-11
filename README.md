@@ -64,8 +64,7 @@ PDF・メモを取り込んで自然言語で質問できる検索アプリ。
 
 ## 📖 アウトプット
 
-- 📝 [Zenn](https://zenn.dev/◯◯◯◯)
-- 🐦 [X (Twitter)](https://twitter.com/◯◯◯◯)
+- 📝 [Zenn](https://zenn.dev/thousand_boy)
 
 ## 📊 GitHub Stats
 
