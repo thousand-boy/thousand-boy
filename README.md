@@ -84,13 +84,6 @@
 - **技術**：Next.js / Tailwind CSS / MDX / Vercel
 - 🔗 [サイトURL（公開予定）](#)
 
-## 🎓 資格
-
-- **G検定（JDLA Deep Learning for GENERAL）** ─ 2026年9月5日受験予定
-
-## 📖 アウトプット
-
-- 📝 [Zenn](https://zenn.dev/thousand_boy) ─ 月1〜2本の技術記事を継続予定
 
 ## 📊 GitHub Stats
 
