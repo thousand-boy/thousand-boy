@@ -1,129 +1,75 @@
-<h1 align="center">👋 Yuya Matsumoto</h1>
-<p align="center"><b>作業療法士 → 生成AIアプリケーションエンジニア</b></p>
-<p align="center">
-医療現場で「AIツールがなぜ現場に定着しないのか」を<b>“使う側”として7年間</b>見てきました。<br>
-その観察を武器に、<b>現場で本当に使われるAI活用Webアプリ</b>を作るエンジニアを目指しています。
-</p>
+# 👋 Yuya Matsumoto
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/LLM%20API-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/RAG-FF6F61?style=flat-square">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/入社目安-2027.01--02-0F766E?style=flat-square">
-</p>
+**作業療法士 → 生成AIアプリケーションエンジニア（転職活動中 / 福岡）**
+
+医療現場で7年8ヶ月、「便利なはずのAIツールがなぜ現場に定着しないのか」を“使う側”として見てきました。
+その視点を武器に、Python / FastAPI と LLM API を組み込んだ「現場で実際に使われるWebアプリ」を制作しています。
+
+- 🔭 制作中：現場の記録・下書きをLLMで補助するWebアプリ（v1公開予定：2026年10月）
+- 🌱 学習中：FastAPI / DB / LLM API / React（→ v2でRAGを追加予定）
+- 💼 ステータス：Open to work（2027年1〜2月 入社目安）
+- 📫 連絡先：[![Gmail](https://img.shields.io/badge/Gmail-your--email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
 
 ## 🎯 目指す姿
 
-**LLM API・RAG を組み込んだプロダクトを設計・実装する生成AIアプリケーションエンジニア** です。
-機械学習モデルをゼロから作る職種とは切り分け、まずは **Python（FastAPI）を軸にしたWebアプリ開発** で実務に入り、そこから生成AIへ育つことを目指します。
+LLM API を組み込んだWebアプリケーションを Python（FastAPI）で設計・実装するエンジニアです。
+機械学習モデルをゼロから作る領域とは切り分け、まずはWebアプリ開発で実務に入り、そこから生成AIプロダクトへ広げていくことを目指します。
 
-現在は在職中（作業療法士）で、**2026年7月から個人開発に集中**。ポートフォリオの完成度を最優先し、**応募11月・面接12月・入社2027年1〜2月**を目安に動いています。
-
-> 💡 なぜ「現場で使われるAI」なのか — 医療現場では、便利なはずのツールが「入力が面倒」「流れに合わない」で定着しないのを何度も見てきました。**使う側だったからこそ分かる“定着しない理由”**を、プロダクト設計の起点にします。
+**なぜ医療からエンジニアか**：現場では、入力の手間や業務フローとの不一致で、便利なツールほど使われなくなります。その「定着しない理由」を使う側として見てきた経験を、“使われるものを作る”設計の起点にします。
 
 ---
 
-## 🛠️ 技術スタック
+## 🛠️ 技術スタック（習得状況を正直に区分）
 
-**習得済み**
-`Python` `JavaScript` `HTML / CSS` `Git / GitHub`
+| 区分 | 技術 |
+|---|---|
+| 基礎習得済み | Python / JavaScript / HTML・CSS / Git・GitHub |
+| 現在の制作で習得中 | FastAPI / SQL・DB / LLM API（OpenAI・Anthropic）/ プロンプト設計 / React / Tailwind CSS / Render / Vercel |
+| 制作v2で追加予定 | LangChain / RAG / ベクトルDB（Chroma）・出典付き回答 |
+| 入社後に伸ばす | TypeScript / pytest / Function Calling・AIエージェント |
 
-**制作を通じて習得中（〜2026年）**
-`FastAPI` `SQL / DB` `LLM API (OpenAI / Anthropic)` `プロンプト設計` `LangChain / RAG` `ベクトルDB (Chroma)` `React` `Tailwind CSS` `Render` `Vercel`
-
-**入社後に伸ばす（長期）**
-`TypeScript` `pytest（テスト）` `Function Calling / AIエージェント` `設計・運用の深化`
-
-<p>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white">
-  <img src="https://img.shields.io/badge/-Anthropic%20Claude-D97757?style=flat-square&logo=anthropic&logoColor=white">
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white">
-  <img src="https://img.shields.io/badge/-RAG%20%2F%20Chroma-FF6F61?style=flat-square">
-  <img src="https://img.shields.io/badge/-SQL%20%2F%20DB-4479A1?style=flat-square&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white">
-  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white">
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
-</p>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,git,fastapi,react,tailwind,vercel" />
 
 ---
 
 ## 🚀 制作中のポートフォリオ
 
-各成果物では、テーマより **「課題 → アプローチ → 筋道」** の言語化を重視します。
-*（課題：なぜ作ったか／アプローチ：どう設計し、なぜその技術を選んだか／筋道：判断理由・つまずきと解決過程）*
+### 現場の記録業務を減らすAI活用Webアプリ（1本 / v1→v2の二段構え）
 
-### 🧩 メインアプリ：現場の手間を減らすAI活用Webアプリ
-現場のメモ・記録から **要約／下書きを生成（LLM）** し、さらに **現場の文書にAIが答える（RAG）** Webアプリ。
-医療・リハ現場の実課題を一般化したテーマ（※個人情報・規制に配慮）。
+- **課題**：医療・リハ現場で、記録・申し送り・報告書の下書きに時間が取られる（OT7年8ヶ月の原体験）
+- **v1**：メモ・記録から要約／下書きを LLM で生成（FastAPI＋SQLite / React / Render＋Vercel）
+- **v2**：現場文書を取り込み、RAG で出典付き回答（LangChain・Chroma）
+- **重視する点**：テーマより「課題 → アプローチ（技術選定理由）→ 筋道（つまずきと解決）」の言語化
+- ※個人情報・医療規制に配慮し、テーマは一般化しています
 
-| 区分 | 使用技術 |
+🔗 リポジトリ・公開URLは完成後に掲載します（v1公開予定：2026年10月）
+
+> READMEに、技術選定理由・プロンプト設計・RAGの精度／ハルシネーション対策・つまずきと解決過程を記録します。
+
+---
+
+## 🩺 これまで（作業療法士 7年8ヶ月）とエンジニアリングへの接続
+
+回復期5年10ヶ月・急性期1年10ヶ月。6病棟を横断して担当し、介入の優先度判断とリソース配分を日々継続。多職種カンファレンス・退院支援で記録と伝達を担い、福岡県作業療法士協会の運営スタッフとして勉強会の企画・ファシリテーションも担当しました。
+
+| 現場での経験 | エンジニアリングでの活かし方 |
 |---|---|
-| コア（主役） | Python / FastAPI / DB / LLM API（OpenAI・Anthropic） |
-| 差別化（生成AIの核） | LangChain・RAG / ベクトルDB（Chroma）・出典付き回答 |
-| フロント | React / Tailwind CSS |
-| 品質・公開 | 最小テスト（pytest）／Render（API）＋ Vercel（front） |
-
-🔗 *リポジトリ・公開URLは完成後に掲載します（2026年10月公開予定）*
-
-> ⚙️ **設計判断の記録**：READMEに技術選定理由・プロンプト設計・RAGの精度／ハルシネーション対策・つまずきと解決を明記します。
+| 6病棟横断の優先度判断・リソース配分 | タスクの優先順位付け・複数案件の並行管理 |
+| 多職種協働（医師・看護師・MSW 等） | チーム開発でのコミュニケーション |
+| 記録・評価・退院支援資料の記述 | README・設計メモ・コードコメントの記述 |
+| AIツールが定着しない理由の観察 | 現場目線の課題発見・プロダクト設計 |
 
 ---
 
-## 🩺 これまでのキャリア（作業療法士 7年8ヶ月）
+## 📊 GitHub
 
-- 回復期病院で5年10ヶ月、急性期病院で1年10ヶ月勤務
-- **6病棟を横断**して担当し、介入の優先度判断とリソース配分を毎日継続
-- 多職種カンファレンス・退院支援で、論理的な記録・伝達力を養成
-- 福岡県作業療法士協会の運営スタッフとして勉強会の企画・ファシリテーションを担当
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=thousand-boy&show_icons=true&theme=tokyonight" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousand-boy&layout=compact&theme=tokyonight" />
 
-### 💪 OT経験がエンジニアリングに活きる点
-
-| OT現場での経験 | エンジニアリングでの活用 |
-|---|---|
-| 6病棟横断での介入優先度の毎日判断 | タスクの優先順位付け・複数案件の並行管理 |
-| 動作・表情・発言から潜在ニーズを言語化 | ユーザーリサーチ・要件定義・UX視点の設計 |
-| 医師・看護師・MSW等との多職種協働 | エンジニア・デザイナー・PMとの協働 |
-| 議事録・評価記録・退院支援資料の記述 | 設計書・README・コードコメントの記述力 |
-| AIツールが現場に定着しない理由を観察 | 現場目線のプロダクト設計・課題発見力 |
-| 急性期という高ストレス環境で長期勤続 | 継続力・誠実さ・チームへのコミット力 |
+日々のコミットを継続しています。
 
 ---
 
-## 📚 学習ロードマップ（2026年7月 → 2027年）
-
-| 時期 | フェーズ | 内容 |
-|---|---|---|
-| 〜6月（完了） | 基礎 | Python基礎 / JavaScript / HTML・CSS / Git |
-| 7〜8月 | 制作 前半 | Python応用・FastAPI・DB → LLM API・プロンプト設計 |
-| 9〜10月 | 制作 後半 | React で画面化 → **RAG追加・最小テスト・公開（URL取得）** |
-| 11月 | 応募準備 | 書類作成 → 20〜30社へ応募・カジュアル面談 |
-| 12月 | 面接 | 面接・面接対策に専念 → 内定 |
-| 2027年1〜2月 | 入社 | 内定先の技術を事前学習 →（入社後）生成AIを深める |
-
-### 🧭 開発の方針
-- **個人開発を主軸に** — 動くアプリの「質」と、設計判断を語れる状態を優先
-- **品質ゲート制** — 「公開URLで動く／筋道を3分で説明できる／READMEが伝わる／最小テストがある」を満たしてから応募
-- **AIは段階的に活用** — 読解力・設計力・エラーの切り分け力を自力で鍛える
-- **GitHubデイリーコミットを継続** — 継続力・誠実さの可視化
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thousand-boy&show_icons=true&theme=tokyonight">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thousand-boy&layout=compact&theme=tokyonight">
-</p>
-
----
-
-<p align="center">💬 転職活動中です。フィードバック・つながりを歓迎しています。お気軽にご連絡ください。</p>
-<p align="center"><sub>※プロフィール作成途中のため、制作物のリンクは順次更新していきます。</sub></p>
+<sub>💬 転職活動中です。フィードバックやつながりを歓迎します。制作物のリンクは順次更新します。</sub>
