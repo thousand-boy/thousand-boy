@@ -8,7 +8,7 @@
 - 🔭 制作中：現場の記録・下書きをLLMで補助するWebアプリ（v1公開予定：2026年10月）
 - 🌱 学習中：FastAPI / DB / LLM API / React（→ v2でRAGを追加予定）
 - 💼 ステータス：Open to work（2027年1〜2月 入社目安）
-- 📫 連絡先：[![Gmail](https://img.shields.io/badge/Gmail-your--email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.inside1210@gmail.com)
+- 📫 連絡先：[![Gmail](https://img.shields.io/badge/Gmail-work.inside1210@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:work.inside1210@gmail.com)
 
 ---
 
