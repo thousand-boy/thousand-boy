@@ -1,4 +1,3 @@
-```markdown
 # Yuya Matsumoto（松本 侑也）
 
 ### Backend Engineer Candidate | Java / Spring Boot
