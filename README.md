@@ -4,13 +4,13 @@
 
 **医療現場の業務負担を減らすため、Pythonで勤務表作成支援ツールを個人開発しています。**
 
-作業療法士として約6年、回復期・急性期の医療に携わってきました。2026年2月頃からプログラミングを独学で学び、現在はPythonの処理とテストの理解を深めています。
+作業療法士として約6年、回復期・急性期の医療に携わってきました。2026年2月頃に独学を始め、現在はPythonを使った開発とテストに取り組んでいます。
 
 **希望勤務地：福岡県**
 
 ---
 
-## 🛠️ ポートフォリオ
+## 📂 ポートフォリオ
 
 ### [勤務表作成支援ツール](https://github.com/thousand-boy/kinmu-automation)
 
@@ -43,16 +43,39 @@
 
 ---
 
-## 📚 技術と学習状況
+## 🛠️ 技術スタック
 
-エンジニアとしての実務経験はありません。以下は個人開発・学習での経験です。
+言語・業務自動化・テスト・開発ツールは、勤務表ツールの個人開発で使用しています。エンジニアとしての実務経験はありません。
 
-| 区分 | 技術・現在の取り組み |
-| --- | --- |
-| 開発で使用 | Python / OR-Tools / openpyxl / pytest / Git・GitHub / GitHub Actions |
-| 学習中 | Pythonの処理・テスト・設計と、使用したコードの理解 |
-| 基礎学習・演習経験 | HTML / CSS / JavaScript |
-| 今後の学習・実装候補 | FastAPI / REST API / SQL・データベース |
+### 言語
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 業務自動化・最適化
+
+![OR-Tools](https://img.shields.io/badge/OR--Tools-4285F4?style=flat-square)
+![openpyxl](https://img.shields.io/badge/openpyxl-217346?style=flat-square)
+
+### テスト・開発ツール
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+### フロントエンド（基礎学習・演習）
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### 今後の学習・実装候補
+
+![FastAPI](https://img.shields.io/badge/FastAPI-6B7280?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-6B7280?style=flat-square)
+![SQL](https://img.shields.io/badge/SQL-6B7280?style=flat-square)
+
+Pythonの処理・テスト・設計は、使用したコードを読み直しながら学習を続けています。
 
 ### 次の開発計画
 
