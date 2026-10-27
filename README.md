@@ -15,6 +15,7 @@
 ### [勤務表作成支援ツール](https://github.com/thousand-boy/kinmu-automation)
 
 **Excelの職員情報と勤務希望から、勤務表の下書きを作るツールです。**
+
 ※なお、Excelの勤務表は実際に職場で使用されており、個人情報などを全て取り除いたものです。
 
 [使い方・サンプル](https://github.com/thousand-boy/kinmu-automation#readme) ｜ [実装コード](https://github.com/thousand-boy/kinmu-automation/tree/main/src/kinmu) ｜ [テスト](https://github.com/thousand-boy/kinmu-automation/tree/main/tests)
